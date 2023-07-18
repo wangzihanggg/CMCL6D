@@ -5,7 +5,7 @@ This repository is used to store some of the results from the paper "Multiple Mo
 
 Fig 1: Visualization of Input and Output of the Segmentation Network.
 
-![segResult](figs\segResult.png)
+![segResult](./figs/segResult.png)
 
 
 
@@ -65,4 +65,4 @@ Table 2: Evaluation of 6D Pose (percentage of ADD-S smaller than 2cm) on the YCB
 
 Fig 2: Visualization of the Overall Effectiveness of the Framework
 
-![6dReult](figs\6dReult.png)
+![6dReult](./figs/6dReult.png)
