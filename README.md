@@ -1,5 +1,5 @@
 # CMCL6D
-This repository is used to store some of the results from the paper "Multiple Modality Fusion for Object Pose Estimation: A Cross-layer Cross-modal Hybrid CNN Architecture". When the paper is published, the source code will be opened and a tutorial will be released.
+This repository is used to store some of the results from the paper "Multiple Modality Fusion for Object Pose Estimation: A Cross-layer Cross-modal Hybrid CNN Architecture". **doi:10.3390/machines11090891**
 
 ## Results of CM&CL Module Based Segmentation Network
 
